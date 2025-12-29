@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "怪盗ハッチさん / 巡音ルカ",
+  "base_artist": "謎J",
+  "createdAt": "2025-12-29T14:24:47.296539Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪盗ハッチさん",
+      "artist": "謎J",
+      "has_synced": false,
+      "path": "select/pl_01_怪盗ハッチさん_謎J.txt"
+    }
+  ]
+}
